@@ -1,0 +1,3 @@
+/home/mohammed/Desktop/Google101/CMakeFiles/rebuild_cache.dir
+/home/mohammed/Desktop/Google101/CMakeFiles/demo.dir
+/home/mohammed/Desktop/Google101/CMakeFiles/edit_cache.dir

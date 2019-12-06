@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/demo.dir/main.c.o  -o demo -Wl,-rpath,/home/mohammed/.openmpi/lib /home/mohammed/.openmpi/lib/libmpi.so 
